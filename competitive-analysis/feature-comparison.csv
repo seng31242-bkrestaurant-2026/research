@@ -1,0 +1,13 @@
+Feature Category,Mapped Use Case,Toast POS,Square for Restaurants,TouchBistro,Foodics (Regional),UberEats/PickMe (Aggregators),Proposed BK Restaurant System
+Role-Based Access Control,UC-01,Comprehensive enterprise roles,Basic team roles,Standard staff roles,Advanced roles & permissions,N/A (Consumer & Merchant only),Core Requirement: Granular roles (Owner Manager Cashier Rider)
+POS & Order Management,UC-02 / UC-03 / UC-04,Deeply integrated custom hardware POS,Accessible cloud POS,iPad-centric hybrid POS,Cloud POS optimized for MENA/Asia,N/A (Platform only),Web/Mobile POS with real-time sync
+Automated Billing & Invoices,UC-05,Advanced billing & split checks,Standard invoicing,Table-side billing,Digital invoicing,Automated platform receipts,Integrated digital invoicing with transaction IDs
+External Order Integration (WhatsApp/Phone),UC-06,Requires paid 3rd-party integration,Manual entry required,Manual entry required,Manual entry required,N/A,Built-in manual entry flow for phone/WhatsApp orders
+Proprietary Rider App & GPS Tracking,UC-07 / UC-08 / UC-09,Relies heavily on DoorDash/UberEats,Relies on 3rd-party integrations,No proprietary rider app,No proprietary rider tracking,High-cost proprietary fleet,Competitive Advantage: Zero-commission proprietary Rider App with live GPS
+Real-Time Multi-Branch Inventory,UC-10,Advanced tracking with recipe costing,Basic tracking (Advanced is paid),Strong internal tracking,Strong cloud-based multi-branch,N/A,Unified tracking across Ambalangoda & Kahawa
+Automated Low-Stock Alerts,UC-11,Available via paid modules,Available,Available,Available,N/A,Core Requirement: Instant automated alerts to managers
+Direct Digital Supplier Requests,UC-12,Requires expensive ERP add-ons,Basic vendor management,Limited integration,Basic procurement module,N/A,Core Requirement: Built-in automated supplier communication
+Employee Shift Scheduling & Attendance,UC-13 / UC-14,Robust scheduling via Sling,Built-in team shifts,Basic staff management,Basic HR add-on,N/A,Digital attendance and leave approval workflow
+Centralized Owner Analytics Dashboard,UC-15,Enterprise-grade reporting,Strong cloud analytics,Standard reporting,Extensive cloud dashboards,Sales analytics only,Unified real-time oversight for all branches
+Offline Reliability (Sri Lankan Context),N/A,Strong offline mode,Limited offline mode,Excellent local network mode,Cloud-dependent (risky),Cloud-dependent (risky),Hybrid architecture ensuring uninterrupted POS ops
+Pricing & Commission Structure,N/A,High monthly SaaS + Hardware fees,Transaction fees + monthly SaaS,Monthly SaaS + Hardware,Monthly SaaS,Extremely high per-order commissions (up to 30%),Custom built one-time investment with zero order commissions
